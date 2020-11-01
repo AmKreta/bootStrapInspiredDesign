@@ -1,0 +1,181 @@
+.primary {
+    background-color: #007bff !important;
+}
+
+.primaryOutline {
+    border: 1px solid #007bff !important;
+    color: #007bff !important;
+    background-color: white;
+
+    &:hover {
+        background-color: #007bff !important;
+        color: white !important;
+    }
+}
+
+.primaryFade {
+    color: #004085 !important;
+    background-color: #cce5ff !important;
+    border:1px solid #b8daff !important;
+}
+
+
+.secondary {
+    background-color: #17a2b8 !important;
+}
+
+.secondaryOutline {
+    border: 1px solid #17a2b8 !important;
+    color: #17a2b8 !important;
+    background-color: white;
+
+    &:hover {
+        background-color: #17a2b8 !important;
+        color: white !important;
+    }
+}
+
+.secondaryFade {
+    color: #0c5460 !important;
+    background-color: #d1ecf1 !important;
+    border:1px solid #bee5eb !important;
+}
+
+
+.warning {
+    background-color: #ffc107 !important;
+}
+
+.warningOutline {
+    border: 1px solid #ffc107 !important;
+    color: #ffc107 !important;
+    background-color: white;
+
+    &:hover {
+        background-color: #ffc107 !important;
+        color: white !important;
+    }
+}
+
+.warningFade {
+    color: #856404 !important;
+    background-color: #fff3cd !important;
+    border:1px solid #ffeeba !important;
+}
+
+
+.darkGrey {
+    background-color: #343a40 !important;
+}
+
+.darkGreyOutline {
+    border: 1px solid #343a40 !important;
+    color: #343a40 !important;
+    background-color: white;
+
+    &:hover {
+        background-color: #343a40 !important;
+        color: white !important;
+    }
+}
+
+.darkGreyFade {
+    color: #1b1e21 !important;
+    background-color: #d6d8d9 !important;
+    border:1px solid #c6c8ca !important;
+}
+
+
+.sucess {
+    background-color: #28a745 !important;
+}
+
+.sucessOutline {
+    border: 1px solid #28a745 !important;
+    color: #28a745 !important;
+    background-color: white;
+
+    &:hover {
+        background-color: #28a745 !important;
+        color: white !important;
+    }
+}
+
+.sucessFade {
+    color: #155724 !important;
+    background-color: #d4edda !important;
+    border:1px solid #c3e6cb !important;
+}
+
+
+.lightGrey {
+    background-color: #6c757d !important;
+}
+
+.lightGreyOutline {
+    border: 1px solid #6c757d !important;
+    color: #6c757d !important;
+    background-color: white;
+
+    &:hover {
+        background-color: #6c757d !important;
+        color: white !important;
+    }
+}
+
+.lightGreyFade {
+    color: #383d41 !important;
+    background-color: #e2e3e5 !important;
+    border:1px solid #d6d8db !important;
+}
+
+.danger {
+    background-color: #dc3545 !important;
+}
+
+.dangerOutline {
+    border: 1px solid #dc3545 !important;
+    color: #dc3545 !important;
+    background-color: white;
+
+    &:hover {
+        background-color: #dc3545 !important;
+        color: white !important;
+    }
+}
+
+.dangerFade {
+    color: #721c24 !important;
+    background-color: #f8d7da !important;
+    border:1px solid #f5c6cb !important;
+}
+
+.xxl {
+
+    font-size: 1.4em !important;
+}
+
+.xl {
+
+    font-size: 1.3em !important;
+}
+
+.l {
+    font-size: 1.2em !important;
+}
+
+.s {
+    font-size: 1.1em !important;
+}
+
+.xs {
+    font-size: 1em !important;
+}
+
+.xxs {
+    font-size: .9em !important;
+}
+
+.defaultBackground {
+    background-color: #f8f9fa !important;
+}
