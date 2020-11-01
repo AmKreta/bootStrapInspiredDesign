@@ -5,7 +5,7 @@ use class names primary,secondary,warning,sucess,danger,ligntGrey,darkGrey and a
 
 following are Typography Classes:-
 xxl,
-xl
+xl,
 l,
 s
 xs
